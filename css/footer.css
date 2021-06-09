@@ -1,0 +1,17 @@
+footer,nav{
+    background: transparent;
+    width: 100%;
+    height: 50px;
+    color: white;
+    text-align: center;
+}
+footer{
+   position: fixed;
+   top: 92%;
+}
+footer p,nav p{
+   padding-top: 10px;
+}
+footer p span{
+   color: red;
+}
